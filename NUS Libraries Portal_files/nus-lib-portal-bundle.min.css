@@ -1,0 +1,31 @@
+.breadcrumb-opening-hours .container-custom span a {
+    font-family: Helvetica-Neue-Regular;
+    font-size: 0.875rem;
+    color: #444444;
+    display: inline-block;
+}
+
+.breadcrumb-microsite .breadcrumb-label {
+    display: none !important;
+}
+.breadcrumb-microsite #bread_crumb_filder {
+    display: none !important;
+}
+
+.breadcrumb-opening-hours .rdContent {
+    position: unset !important;
+}
+.text.set-box-shadow-yellow {
+    box-shadow: #FED700 10px 10px 0px 0px !important;
+}
+
+.text.set-box-shadow-blue {
+    box-shadow: #0624FC 10px 10px 0px 0px !important;
+}
+
+.list-libraries .container-custom .table tbody tr td.name a {
+    font-family: Helvetica-Neue-Bold;
+    font-size: 1.25rem;
+    color: #003d7c;
+    padding: 1.25rem 0 1.25rem 3%;
+}
